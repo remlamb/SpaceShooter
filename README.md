@@ -1,6 +1,7 @@
-# SpaceShooter Using SFML and Box2d --- SAE Games programming project
+# SpaceShooter Using SFML and Box2d 
 
-### --- This project is only in the 11-SpaceShooter Folder ----
+### --- SAE Games programming project ---
+### ---- This project is only in the 11-SpaceShooter Folder ----
 
 Use R1 or espace to shoot, keyboard's or controller's arrows to move
 Destroy as many enemies as you can !

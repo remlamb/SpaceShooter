@@ -3,7 +3,10 @@
 ### --- SAE Games programming project ---
 ### ---- This project is only in the 11-SpaceShooter Folder ----
 
+
+
 Use R1 or espace to shoot, keyboard's or controller's arrows to move
+
 Destroy as many enemies as you can !
 
 ## made with :
